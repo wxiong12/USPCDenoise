@@ -1,6 +1,5 @@
 # USPCDenoise Dataset
 
-> **Anonymous version for reviewers**
 
 ## Overview
 **USPCDenoise** is an open-source dataset specifically designed for underwater sonar point cloud denoising.  
