@@ -6,10 +6,10 @@
 **USPCDenoise** is an open-source dataset specifically designed for underwater sonar point cloud denoising.  
 A significant challenge in underwater infrastructure inspection is the lack of publicly available sonar point cloud datasets. To fill this gap, we collected and processed real 3D sonar measurements, creating a benchmark dataset that supports both research and practical applications in underwater environments.  
 
-<p align="center">
+<!-- <p align="center">
     <img src="image.png" width="840"> <br />
     <em> Schematic Diagram of Data Acquisition and Dataset Construction. (a) Field measurement site. (b) Workflow of data collection and dataset construction. </em>
-</p>
+</p> -->
 
 The dataset includes representative measurement objects covering:
 - **Mapping targets:** underwater terrain
