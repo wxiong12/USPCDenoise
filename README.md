@@ -31,7 +31,7 @@ The dataset covers two representative underwater measurement scenarios:
 <br>
 
 <p align="center">
-  <img src="images/fig3_modify.jpg" width="90%">
+  <img src="fig3_modify.jpg" width="90%">
 </p>
 
 <p align="center">
